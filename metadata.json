@@ -1,0 +1,6 @@
+{
+  "name": "AI Personal Finance Categorizer",
+  "description": "Intelligent expense categorization, receipt & bank statement parsing, and spending pattern analytics powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
